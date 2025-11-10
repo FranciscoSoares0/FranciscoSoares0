@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me  
 🚀 **Frontend Developer with 3+ years of experience designing and delivering scalable Angular applications
-💼 Currently working at **BITE Investments**  
+💼 Currently working at **BITE Investments**
 🌱 Always learning about **Software Architecture, Systems, and UI/UX Design**  
 🎯 Specializing in **Angular, React, and Digital Transformation**  
 
