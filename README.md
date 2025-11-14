@@ -49,11 +49,15 @@
 
 ## 🏆 Featured Projects  
 
+### 📺 **WatchMatch - Match Movies & Series With the People You Care About**  
+🔹 **Tech:** Angular, NestJS, Google Authentication, MongoDB , Angular Material 
+🔹 **Description:** Easily discover which movies and series you have in common with your friends. WatchMatch helps you compare watchlists, find overlaps, and choose what to watch together in a fun and effortless way.
+
 ### 📌 **NextRep - Fitness Tracking Web App**  
 🔹 **Tech:** Angular, Firebase, Google Authentication, Bootstrap  
 🔹 **Description:** Web app for tracking workouts, meals, and progress  
 
-### 🎬 **CouchPotato - Movie & TV Database** *(In Development)*  
+### 🎬 **CouchPotato - Movie & TV Database** 
 🔹 **Tech:** Angular, Firebase, API Integration  
 🔹 **Description:** Find, save, and manage your favorite movies and TV shows  
 
