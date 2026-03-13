@@ -1,11 +1,14 @@
-# Hey there! 👋 I'm Francisco Soares  
+# Hey there! I'm Francisco Soares  
 
-## 👨‍💻 About Me  
-🚀 **Frontend Developer with 3+ years of experience designing and delivering scalable Angular applications
+## About Me  
+💻 Frontend Developer with 4+ years of experience designing and delivering scalable Angular applications integrated with RESTful APIs, LLMs, and enterprise systems such as SharePoint.
 
-💼 Currently working at **BITE Investments**
-🌱 Always learning about **Software Architecture, Systems, and UI/UX Design**  
-🎯 Specializing in **Angular, React, and Digital Transformation**  
+Proficient in JavaScript/TypeScript, UML (Unified Modeling Language), Agile development, CI/CD pipelines, and testing frameworks (Jest, Jasmine).
+
+Fluent in English (C2 CEFR); experienced in collaborating with globally distributed, cross-functional teams to deliver high-performance, cost-efficient solutions.
+
+🏢 Current Role
+Develop and maintain Angular applications for the BiteStream platform, enabling alternative fund managers (GPs) and investors (LPs) to efficiently create, manage, and invest in funds.
 
 ---
 
